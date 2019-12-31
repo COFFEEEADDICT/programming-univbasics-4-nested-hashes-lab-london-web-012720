@@ -92,6 +92,12 @@ return programmer_hash
     puts programmer_hash
 end
 
+
+
+
+
+
+
 def changing_alan
 	programmer_hash = 
  		{
