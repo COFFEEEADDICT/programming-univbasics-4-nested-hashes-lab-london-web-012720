@@ -16,9 +16,8 @@ def hopper
         }
      }
  p programmer_hash[:grace_hopper]
-    puts 
+    return alan_kay_is_known_for 
 end
-alan_kay_is_known_for
 
 end
 
